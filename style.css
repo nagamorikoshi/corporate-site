@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+@font-face {
+  font-family: "myfont";
+  src: url("fonts/odstemplik/odstemplik.otf") format("opentype"),url("fonts/odstemplik/odstemplikBold.otf") format("opentype")
+}
+
+.top-img {
+  background-image: url("imgs/img01.jpg");
+  background-size: cover;
+}
+
+.top-text {
+  text-align: center;
+  padding: 250px 0;
+}
+
+.top-text h1 {
+  font-size: 100px;
+  font-family: "myfont"
+}
