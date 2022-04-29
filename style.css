@@ -31,3 +31,19 @@ nav h3 {
 nav .fa-solid {
   color: #888;
 }
+
+.night-sky {
+  background-image: url(imgs/fix-bg.jpg);
+  padding: 200px 0;
+  text-align: center;
+}
+
+.night-sky {
+  font-family: "myfont";
+  font-size: 80px;
+  margin-bottom: 40px;
+}
+
+.carousel-item {
+  height: 500px;
+}
