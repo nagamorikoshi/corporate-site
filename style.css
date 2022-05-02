@@ -40,7 +40,7 @@ nav .fa-solid {
 
 .night-sky {
   font-family: "myfont";
-  font-size: 80px;
+  font-size: 20px;
   margin-bottom: 40px;
 }
 
@@ -65,4 +65,14 @@ nav .fa-solid {
 
 .service-description {
   padding: 30px;
+}
+
+.info {
+  border: solid 2px white;
+  margin: 20px;
+  padding: 20px;
+}
+
+.icon {
+  font-size: 100px;
 }
